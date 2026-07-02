@@ -1,3 +1,25 @@
-body{
-    background-color: lightpink;
+header{
+
+
+    background-color: whitesmoke;/*cor de fundo do cabeçario*/
+    color: skyblue;/*cor da fonte*/
 }
+
+
+
+
+main{
+background-color: lightpink;
+    color: lightgray;
+    text-align: center; /*alinha o texto ao centro*/
+    max-width: 800px;/*largura maxima
+    margin: 0 auto;/*configura margens*/
+}
+
+
+footer{
+background-color: lightgrey; 
+color: #a995ca;
+
+}
+
