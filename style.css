@@ -1,12 +1,12 @@
 header{
 
 
-    background-color: whitesmoke;/*cor de fundo do cabeçario*/
+    background-color: rgba(5, 5, 5, 0.596);/*cor de fundo do cabeçario*/
     color: skyblue;/*cor da fonte*/
     text-align-last: center;
     max-width: 800;
     margin: 0 auto;/*configura margens*/
-    padding: 16px; /*espaçamento interno*/
+    padding: 0px; /*espaçamento interno*/
     border: 5px solid rgb(95, 150, 187);
 }
 
