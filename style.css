@@ -3,7 +3,12 @@ header{
 
     background-color: whitesmoke;/*cor de fundo do cabeçario*/
     color: skyblue;/*cor da fonte*/
+    text-align-last: center;
+    max-width: 800;
+    margin: 0 auto;/*configura margens*/
+    padding: 16px; /*espaçamento interno*/
 }
+
 
 
 
