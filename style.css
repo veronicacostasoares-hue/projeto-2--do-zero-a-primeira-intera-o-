@@ -1,13 +1,13 @@
 header{
 
 
-    background-color: rgba(5, 5, 5, 0.596);/*cor de fundo do cabeçario*/
-    color: skyblue;/*cor da fonte*/
+    background-color: rgba(240, 82, 82, 0.596);/*cor de fundo do cabeçario*/
+    color: rgb(104, 167, 192);/*cor da fonte*/
     text-align-last: center;
     max-width: 800;
     margin: 0 auto;/*configura margens*/
     padding: 0px; /*espaçamento interno*/
-    border: 5px solid rgb(95, 150, 187);
+    border: 5px solid rgb(203, 123, 223);
 }
 
 
@@ -24,8 +24,8 @@ background-color: lightpink;
 
 
 footer{
-background-color: lightgrey; 
-color: #a995ca;
+background-color: rgb(230, 96, 96); 
+color: #8f73bd;
 
 }
 
