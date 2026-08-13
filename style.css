@@ -20,12 +20,18 @@ background-color: rgb(45, 233, 192);
     text-align: center; /*alinha o texto ao centro*/
     max-width: 800px;/*largura maxima
     margin: 0 auto;/*configura margens*/
+    padding: 16px;/*habilita o uso de flex box*/
+    display: table-row;/*orienta os elementos na hori*/
 }
 
 
 footer{
-background-color: rgb(230, 96, 96); 
+background-color: #e4a6f7; 
 color: #8f73bd;
 
 }
 
+img{
+width: 80px;/*largura*/
+height: 80px;/*largura*/
+}
