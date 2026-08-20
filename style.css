@@ -2,12 +2,12 @@ header{
 
 
     background-color: rgba(235, 150, 243, 0.596);/*cor de fundo do cabeçario*/
-    color: rgb(104, 167, 192);/*cor da fonte*/
+    color: rgb(253, 147, 248);/*cor da fonte*/
     text-align-last: center;
     max-width: 800;
     margin: 0 auto;/*configura margens*/
     padding: 0px; /*espaçamento interno*/
-    border: 5px solid lab(78.77% 38.44 -32.02);
+    border: 5px solid lab(63.07% 36.9 -30.31);
 }
 
 
@@ -27,7 +27,7 @@ background-color: rgb(45, 233, 192);
 
 
 footer{
-background-color: #e4a6f7; 
+background-color: #121113; 
 color: #8f73bd;
 max-width: 800px;
 
