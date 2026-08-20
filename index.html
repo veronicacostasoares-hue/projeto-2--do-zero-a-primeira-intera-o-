@@ -33,9 +33,15 @@
 </main>
 
 <footer> rodapé </footer>
+
 </body>
 <script>
-      const botao=document.querySelector("button");
+      const botao=document.querySelector("button"); //crie uma variavel chamada botão selecionando a tang "button"//
+      botao.addEventListener("click", botaoclicado) //verifique se o botão foi clicado// 
+
+      function botaoclicado() { //cria uma função
+        console.log("fui clicado") //mostrar se o botão foi clicado
+      }
 
 </script>
 </html>
