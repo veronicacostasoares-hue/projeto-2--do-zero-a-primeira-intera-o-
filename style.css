@@ -32,6 +32,7 @@ color: #000000;
 max-width: 800px;
 display: flex;/*habilita o uso de flex box*/
 margin: 0 auto; /*espaçamento externo ao redor do elemento
+padding: 16px; /*espaçamento interno*/
 
 }
 
