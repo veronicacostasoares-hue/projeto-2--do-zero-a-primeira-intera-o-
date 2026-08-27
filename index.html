@@ -26,26 +26,25 @@
         <p> boas-vindas ao meu blog,
             compartilharei algumas coisas que eu gosto</p>
             <button>🩷​<span>0</span></button>
+            <button>💙​​<span>0</span></button>
 
 
        </div>
     
 </main>
 
-<footer> rodapé 
-
-</footer>
+<footer> rodapé </footer>
 
 </body>
 <script>
-      const botao=document.querySelector("button"); //crie uma variavel chamada botão selecionando a tang "button"//
+      const botoes=document.querySelector("button"); //crie uma variavel chamada botão selecionando a tang "button"//
+      botoes. forEach(function(botao){
       botao.addEventListener("click", botaoclicado) //verifique se o botão foi clicado// 
-
       function botaoclicado() { //cria uma função
         console.log("fui clicado") //mostrar se o botão foi clicado
         let texto=document.querySelector("span")//cria uma variavel chamada 'texto' selecionando a tag span
         texto.textcontent++;//muda o valor do texto adicionando de uma unidade
       }
-
+       })
 </script>
 </html>
